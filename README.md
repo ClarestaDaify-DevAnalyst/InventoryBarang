@@ -1,9 +1,6 @@
 # 📦 Sistem Inventory Web App
 
-<img width="1536" height="1024" alt="Sistem Inventory Web App dashboard overview" src="https://github.com/user-attachments/assets/21a797eb-2602-47ed-9164-899131ebd9f6" />
-
-
-
+<img width="1536" height="1024" alt="ChatGPT Image Mar 29, 2026, 09_18_53 PM" src="https://github.com/user-attachments/assets/5aad311d-fbe6-4f53-a790-171b11ded271" />
 > 🚀 Sistem manajemen stok berbasis web dengan Google Sheets & Apps Script
 
 ---
